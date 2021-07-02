@@ -1,0 +1,7 @@
+for: es un bucle el cual evalua una expresion y luego ejecuta una linea
+de codigo sengun las condiciones establecidas
+&&: corresponde al operador logico AND y sirve para ejecutar un cogido
+siempre y cuando todas los statments sean True
+||: operador logico OR, ejecuta un codigo siempre que uno de los statments
+sean True
+!: operador logico NOT, ejecuta el codigo cuando el statment sea False

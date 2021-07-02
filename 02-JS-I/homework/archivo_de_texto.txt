@@ -1,0 +1,10 @@
+Variables: las variables son nombres a los cuales se le asigna 
+un valor o no y se guarda el nombre 
+para ser usado mas adelante en el codigo
+Strings: tipo de dato el cual corresponde a una cadena de caracteres
+encerrados entre comillas
+Funciones: son lineas de codigos que se guardan para ser 
+ejecutadas mas tarde
+If: son statments seguidos de lineas de codigo, las cuales se
+ejecutaran si las statments son True
+Valores True or False: tipo de dato logico, corresponde a si o no en logica booleana
