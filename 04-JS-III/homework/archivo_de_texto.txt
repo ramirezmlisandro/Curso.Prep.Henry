@@ -1,0 +1,2 @@
+Arrays: son listas, en las cuales se puede almacenar cualquier tipo de objeto
+y se pueden acceder a los mismos mediante su indice
