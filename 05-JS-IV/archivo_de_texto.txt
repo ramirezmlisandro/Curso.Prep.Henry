@@ -1,0 +1,9 @@
+Objetos: son como los array solo que en vez de asignar un numero de indice
+a cada valor de la lista, se le asigna un nombre o key
+Propiedad: es el key de cada valor dentro de un Objetos
+Métodos: son funciones dentro de Objetos
+Bucle for ...in: este bucle itera entre cada key del Objetos
+Notacion de puntos vs notacion de corchetes: cada una tiene su ventaja,
+la notacion de punto es mas sencilla y rapida, pero la notacion de 
+corchetes puede ser mas especifica a la hora de acceder a la propiedad 
+o de modificarla
