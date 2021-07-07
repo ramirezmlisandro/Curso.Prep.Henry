@@ -1,0 +1,4 @@
+Prototype: es la clasificacion del objeto, dentro de el se guardan metodos
+los cuales no aparecen como propiedades cuando se visualiza el objeto
+Constructor: funciones dentro de la cual se establece una clase y las 
+propiedades que tendra esa clase, tambien se establece el prototito
